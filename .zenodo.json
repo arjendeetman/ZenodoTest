@@ -1,0 +1,30 @@
+{
+	"creators": [
+		{
+			"name": "Mohr, Leonor",
+			"affiliation": "Institute for Materials"
+		}
+	],
+
+	"contributors": [
+        {
+			"name": "Goodwin, Ursula ",
+			"affiliation": "Institute for Systems"
+		}
+	],
+
+	"access_right": "open",
+
+	"license": "CC-BY-SA-4.0",
+
+	"title": "Zenodo test",
+
+	"description": "Test respository.",
+
+	"keywords": [
+		"test",
+		"zenodo"
+	],
+
+	"upload_type": "dataset"
+}
