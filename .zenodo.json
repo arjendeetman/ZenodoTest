@@ -27,5 +27,18 @@
 		"zenodo"
 	],
 
-	"upload_type": "dataset"
+	"upload_type": "dataset",
+
+	"funding": [
+		{
+			"funder_name": "My Custom Funder 1",
+			"award_number": "ABC-1234",
+			"award_title": "Custom Research Project 1"
+		},
+		{
+			"funder_name": "My Custom Funder 2",
+			"award_number": "ABC-5678",
+			"award_title": "Custom Research Project 2"
+		}
+	]
 }
