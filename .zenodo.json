@@ -16,7 +16,7 @@
 
 	"access_right": "open",
 
-	"license": ["CC-BY-SA-4.0", "GPL-3.0"],
+	"license": "CC-BY-SA-4.0",
 
 	"title": "Zenodo test",
 
