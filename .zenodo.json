@@ -29,16 +29,16 @@
 
 	"upload_type": "dataset",
 
-	"funding": [
+	"related_identifiers": [
 		{
-			"funder_name": "My Custom Funder 1",
-			"award_number": "ABC-1234",
-			"award_title": "Custom Research Project 1"
+			"identifier": "https://doi.org/10.1016/j.rineng.2025.108669",
+			"relation": "isSupplementTo",
+			"resource_type": "publication-article"
 		},
 		{
-			"funder_name": "My Custom Funder 2",
-			"award_number": "ABC-5678",
-			"award_title": "Custom Research Project 2"
+			"identifier": "https://doi.org/10.1016/j.rineng.2025.108669",
+			"relation": "isDescribedBy",
+			"resource_type": "publication-article"
 		}
-	]
+    ],
 }
